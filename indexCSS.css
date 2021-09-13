@@ -1,0 +1,37 @@
+.highlightedHead{
+
+    background-color: rgb(56, 45, 45);
+
+}
+
+.test{
+
+    color: aqua;
+}
+
+.white{
+
+    color: white;
+}
+
+#bodyColor{
+    background-color: rgb(221, 215, 203);
+}
+
+#projects{
+
+    position: relative;
+
+    left: 250px;
+}
+
+.projectName{
+
+    font-size: 30px;
+    color: green;
+
+}
+
+.project{
+    margin-bottom: 20px;
+}
